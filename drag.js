@@ -666,7 +666,7 @@ draw();
 //orientation alert
 if (canvas.width > canvas.height)
 {
-  alert("Please turn your device to portrait orientation and refresh the page. Thank you.")
+  alert("Please turn your device to portrait orientation and refresh the page, or use the Chrome Mobile Emulation tool. Thanks.")
 
 }
 
